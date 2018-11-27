@@ -2,6 +2,8 @@
 Linear Regression, Regularization and Model Comparison; Linear Classification Methods and Discriminant Analysis; CART, random forest, SVM; Cluster Analysis
 
 ##############################################################
+
+
 For Linear Regression, Regularization and Model Comparison, I use the diabetes data in Efron et al. (2003). The data consists ten baseline
 variables which are age, sex, body mass index, average blood pressure, and six blood serum
 measurements as well as the response of interest, a quantitative measure of disease
@@ -18,6 +20,8 @@ using the test data.
 
 
 ##############################################################
+
+
 In Linear Classification Methods and Discriminant Analysis, I used the dataset “Gender Recognition by Voice” from Kaggle, which can be
 downloaded from https://www.kaggle.com/primaryobjects/voicegender. 
 
@@ -51,6 +55,8 @@ estimate the misclassification error using the both training data and testing da
 
 
 ##############################################################
+
+
 In advanced classification project, the data were extracted from the TIMIT database, which is a widely used resource for research
 in speech recognition. The dataset we use was formed by selecting five phonemes for
 classification based on digitized speech from this database. The phonemes are transcribed as
@@ -77,6 +83,7 @@ training data to fit the model and then test the performance on the training dat
 
 
 ##############################################################
+
 
 In cluster analysis project, the goal is to cluster similar log-periodograms into groups using K-Means Clustering
 and Gaussian mixture model. Thus, I will not use the response variable in the analyses. I will try
