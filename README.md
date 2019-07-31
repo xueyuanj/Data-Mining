@@ -1,4 +1,4 @@
-# Data-Mining
+# data-mining
 Linear Regression, Regularization and Model Comparison; Linear Classification Methods and Discriminant Analysis; CART, random forest, SVM; Cluster Analysis
 
 ##############################################################
